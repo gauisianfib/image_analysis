@@ -1,0 +1,6 @@
+train: Dataset/train/images
+val: Dataset/val/images
+nc: 2
+names:
+  0: nucleus
+  1: EEA1
